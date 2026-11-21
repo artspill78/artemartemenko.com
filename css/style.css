@@ -204,3 +204,21 @@ footer.site-footer {
 address {
   font-style: normal;
 }
+
+.credits {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.credits-list {
+  list-style: none;
+  margin: 0.5rem 0;
+  padding: 0;
+  color: var(--text-dim);
+  font-size: 0.9rem;
+}
+
+.credits-list li {
+  margin-bottom: 0.3rem;
+}
