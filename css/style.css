@@ -222,3 +222,19 @@ address {
 .credits-list li {
   margin-bottom: 0.3rem;
 }
+
+/* Newsletter, blog and link lists */
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 1.5rem;
+}
+
+.post-list li {
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.site-footer a {
+  color: var(--gold);
+}
